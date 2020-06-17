@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "test": "jest ./tests"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^24.9.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^24.9.0",
+    "jest-puppeteer": "^4.3.0",
+    "puppeteer": "^2.0.0"
+  },
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
